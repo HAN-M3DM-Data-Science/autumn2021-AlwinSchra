@@ -12,19 +12,19 @@ Search Youtube for a suitable business case example on data driven decision maki
 
 <---- Watch this video if you don't know how to embed video's ---->
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9YffrCViTVk" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/watch?v=yWb0iq-BB38&t=" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 <---- Replace this video with your business case example ---->
 
 
 ## Why was data driven decision making (3DM) useful in this business case?
 
-Write your analysis here. Use the information from the course literature as a starting point for your argumentation. Find other reliable sources that support your analysis. Apply proper citations. 
+Schiphol is one of the biggest, and one of the most innovative, airports in Europe and it is constantly improving it’s processes. Nowadays they are very busy with implementing new technologies in their daily activities and therefore they gather lots of data. With these data they can further improve their processes, and so on.. Through the available data the Data Scientist at Schiphol can analyze the current processes within the airport and then analyze if there are ways to improve the actual process. By improving is meant that it takes less time to fulfill the same activity, or by being able to better guarantee safety around the airport, or by reducing costs, or by improve the passenger experiences, and so on. 
 
 ## How did the organization apply 3DM?
 
-Write your analysis here. Use the information from the course literature as a starting point for your argumentation. Find other reliable sources that support your analysis. Apply proper citations. 
+Schiphol applied Data Driven Decision Making by gathering data from their processes, for example via video camera analysis and by improving their current processes in for example the terminal. One of the projects, mentioned in the video, is about passenger patterns. This is an analysis of how passengers arrive per flight, and with analyzing this data, Schiphol can make predictive models to improve capacity management in the terminal. Another example is a deep learning project, in which they want to be able to map out the turnaround process of an airplane. So there is more than one example of the Data Driven Decision Making application within Schiphol. It also shows that for a lot of applications, Data Science is useful, as long as you have the data, you can analyze and improve lots of processes. In this case, Schiphol is one of the leading companies/organizations in the Netherlands with Data Science techniques at this level.   
 
 ## What can the organization do with 3DM that they couldn’t do before?
 
-Write your analysis here. Use the information from the course literature as a starting point for your argumentation. Find other reliable sources that support your analysis. Apply proper citations. 
+Schiphol can predict passenger patterns, so that they can manage capacity inside the terminal, based on data. So they can match supply (staff) and demand with each other, which will reduce costs in the end. Also they can improve their own intern processes with the use of Application Programming Interface’s (API). An example of such an application is the boarding pass service. With the gathering of data, they can make sure everyone who booked a flight is on this flight. So the change of missing a flight could be reduced, because the system can tell you if a passenger is on his way or not..    
