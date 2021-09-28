@@ -1,0 +1,27 @@
+# What was the business problem?
+
+This case is about football players, and football in general, in combination with the use of data. 
+For an outsider it may seem a little odd to have lots of data about humans and their performances, but within football it is quite common, especially over the last few years. 
+This trend is used on different scales and applicated in different forms. 
+Clubs do have different budgets, and a club which regularly plays in the champions league has of course more to spend and will then also spend more money to data analysis than clubs which play on a lower level.
+It's interesting to see something about the possibilities of data and how clubs use data driven decision making on which player to buy/draft/sell/etc.
+
+# How was it translated into a data mining problem?
+
+Over the years new technologies were developed and the whole data science part presumably originated from the 1950s, where an Englishman named Charles Reep started to record observations and trends of his teams goal-scoring performance. 
+Nowadays everything is done with sensors which ensures all data is stored and objective. 
+So data mining is done through the use of sensors and cameras, among other things 
+
+# What is the realized business value?
+
+The realized business value depends on the application where it has been used. 
+It can be used to monitor fitness during the weeks to make sure players won't get overloaded, and by making sure they get enough rest. 
+Nowadays, it's very common to play two or three matches a week and if a player has to do this for weeks in a row, overload is lurking, which will eventually result in injuries. 
+Scouts also make use of data. 
+If the club is looking for a type of player, they will analyze this players' data to make sure they get the right player for their needs. 
+If a manager wants a player who has shown specific abilities, a scout can put all those abilities of the different possible players into a report. 
+A manager then analyses this report and makes the decision whether this player is worth following further. 
+If it is, the scout will most likely physically visit the player. 
+But with this preparation, the choices are already much more reduced than they used to be. 
+The realized business value is to make decision at an earlier stage and to be more certain that this is the right player. 
+Ultimately, the business value must be to benefit from the specific qualities of this player within the team.  
