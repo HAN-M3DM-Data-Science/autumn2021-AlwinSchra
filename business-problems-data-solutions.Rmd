@@ -1,6 +1,6 @@
 ---
 title: "Assigment - Data Problems vs Data Solutions"
-author: name author here
+author: Alwin Schra
 date: "`r format(Sys.time(), '%d %B, %Y')`"
 output:
   html_notebook:
@@ -26,7 +26,7 @@ So data mining is done through the use of sensors and cameras, among other thing
 
 ## What is the realized business value?
 
- realized business value depends on the application where it has been used. 
+The realized business value depends on the application where it has been used. 
 It can be used to monitor fitness during the weeks to make sure players won’t get overloaded, and by making sure they get enough rest. 
 Nowadays, it’s very common to play two or three matches a week and if a player has to do this for weeks in a row, overload is lurking, which will eventually result in injuries. 
 Scouts also make use of data. 
