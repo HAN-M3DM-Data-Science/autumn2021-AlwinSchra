@@ -7,19 +7,32 @@ output:
     toc_depth: 2
 ---
 
-Search Youtube for suitable business case examples on data driven business. Copy the embed code below.
-
-<---- Embed code here ---->
+<iframe width="560" height="315" src="https://www.youtube.com/watch?v=O90PShJVu58" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen data-external="1"></iframe>
 
 
 ## What features define a data driven business?
+A data driven business embraces the use of data in decision making, but is not solely focused on tools. 
+Strategic decisions within the company are based on data analysis and interpretation, so not immediately on opinions. 
+It is based on observable facts and trends, rather than feelings. That makes it understandable for everyone, if they want to know upon what a decision is based. 
+Besides it is essential that a company continuously wants to improve it’s own processes and technologies, because within a data driven business there are lots of new trends and data has to be up-to-date. 
+Another feature of a data driven business is staff. 
+It is important that the right people have the right analytics skills, to translate these data into comprehensible concepts. 
 
-Write your analysis here. Use illustrations from the case study and the information from the course literature as a starting point for your argumentation. Find other reliable sources that support your analysis. Apply proper citations. 
-
-## What are the important features of a data culture?
-
-Write your analysis here. Use illustrations from the case study and the information from the course literature as a starting point for your argumentation. Find other reliable sources that support your analysis. Apply proper citations.
+## What are the important features of data culture?
+One important feature of data culture is mindset. 
+Every individual in the organization should prioritize data over intuition, and everyone in the organization should be focused on new innovations with the use of data. 
+Therefore commitment is very important, especially by the managers. They should treat data as an asset. 
+Also there must be a willingness to change, because if this is not the case, then no benefit will be derived form it. 
+It is also important that employees gain trust of the management. 
+Trust that they are able to do the right things and trust, so that they are willing to explore more of their capabilities.  Another feature is the possibility for people in the organization to develop themselves in order to keep abreast of the latest technologies and methods within data analytics. 
+A perhaps obvious, but very crucial feature, is that people in the organization are given the opportunity to share their own knowledge and at the same time gain knowledge from others. 
 
 ## What are the transformation steps towards a mature data driven business?
-Write your analysis here. Use illustrations from the case study and the information from the course literature as a starting point for your argumentation. Find other reliable sources that support your analysis. Apply proper citations.
+Data driven decision making need to be implemented in the business strategy. 
+It is something the organization want to build on and therefore it should be supported by the management. 
+Management must believe in an organization that is data driven. They should make sure the right tools are available for people to work with data and they should make sure the right data is available. 
+The leader of the organization needs to be experienced with data and he or she should be aware of the opportunities of data analytics. 
+Besides it is important that the company’s digital infrastructure is sufficient for the data analysts to carry out reliable and well-founded analyses. 
+Once the foundation has been laid, there must be sufficient opportunity for staff to keep abreast of new techniques and everything must be geared towards getting the most out of data. 
+
 
